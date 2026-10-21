@@ -1,11 +1,11 @@
 # Student | Cybersecurity & Development
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:151515,100:080808&height=140&section=header&text=STUDENT&fontSize=38&fontColor=e6e6e6&animation=fadeIn&fontAlignY=45&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20DEVELOPMENT&descSize=12&descAlignY=72&descColor=aaaaaa" width="100%" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:151515,100:080808&height=140&section=header&text=ARZU&fontSize=38&fontColor=e6e6e6&animation=fadeIn&fontAlignY=45&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20DEVELOPMENT&descSize=12&descAlignY=72&descColor=aaaaaa" width="100%" alt="Profile banner" />
 </p>
 
 <p align="center">
-  <code>STUDENT</code> · <code>CYBERSECURITY LEARNER</code> · <code>BUILDER</code>
+  <code>FOUNDER AT NYKTOS</code> · <code>CYBERSECURITY LEARNER</code> · <code>BUILDER</code>
 </p>
 
 Learning cybersecurity, Linux, networking, and software development. Interested in understanding how systems work and building projects while learning.
